@@ -1,0 +1,3 @@
+-- database: c:\Users\Admin\Desktop\InsightCoreBridge\db\bridge_buffer.db
+
+SELECT * FROM buffer;
